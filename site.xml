@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <feature url="features/Team1389Feature_1.1.0.jar" id="Team1389Feature" version="1.1">
-      <category name="WhitemanTeam1389c"/>
+      <category name="WhitmanTeam1389c"/>
    </feature>
-   <category-def name="WhitemanTeam1389c" label="Whiteman Team1389"/>
+   <category-def name="WhitmanTeam1389c" label="Whitman Team1389"/>
 </site>
